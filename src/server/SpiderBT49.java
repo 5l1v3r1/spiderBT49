@@ -32,7 +32,7 @@ import java.util.Scanner;
  * 
  */
 @SuppressWarnings("deprecation")
-public class LoginDZ extends Thread{
+public class SpiderBT49 extends Thread{
 	static final String domainurl = "http://www.49lou.com/";	//原始地址
 	static final String loginurl = "http://www.49lou.com/member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes&inajax=1";//登录地址
 	static final String loginUsername = "username"; // 登录用户名
